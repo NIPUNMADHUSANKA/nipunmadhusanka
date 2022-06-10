@@ -38,7 +38,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/NIPUNMADHUSANKA/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIPUNMADHUSANKA&theme=buefy&layout=compact" />
 </a>
 
@@ -47,8 +47,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nipun-madhusanka-932b581a4/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="2019cs084@stu.ucsc.cmb.ac.lk"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/nipun-madhusanka-932b581a4/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nipun%20Madhusanka-blue?style=flat-square&logo=linkedin"></a>
+<a href="2019cs084@stu.ucsc.cmb.ac.lk"><img alt="Email" src="https://img.shields.io/badge/Email-2019cs084@stu.ucsc.cmb.ac.lk-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [NIPUNMADHUSANKA](https://github.com/NIPUNMADHUSANKA/)
