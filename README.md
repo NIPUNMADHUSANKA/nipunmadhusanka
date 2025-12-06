@@ -1,72 +1,47 @@
-# Hi, I'm Nipun Madhusanka 👋  
+# Hi, I’m Nipun Madhusanka 👋  
+**Software Engineer | Full-Stack Developer | Enterprise Systems & AI Enthusiast**
 
-🚀 Software Engineer | Full-Stack Developer | Enterprise Systems & AI Enthusiast  
+I’m a results-driven software engineer with hands-on experience building **enterprise-scale full-stack applications**.
 
-I'm a results-driven Software Engineer with hands-on experience in **enterprise-scale full-stack development**.  
-I work primarily with **Angular, NgRx, Node.js (Express/NestJS), PL/SQL, and Oracle SQL**, building scalable, maintainable systems used by global customers.
-
-I enjoy designing clean architectures, solving complex problems, and continuously learning modern technologies — especially **AI, LLMs, cloud-native systems, and software architecture**.
+I work with **Angular, NgRx, Node.js (Express / NestJS), PL/SQL, and Oracle SQL**, and enjoy designing clean architectures, solving complex problems, and learning modern technologies — especially **AI / LLMs, cloud-native systems, and scalable software design**.
 
 ---
 
-## 🧠 What I Do
+## 🔧 What I Do
 - Build enterprise-grade web applications  
 - Design configuration-driven and scalable systems  
-- Develop secure backend services and APIs  
+- Develop secure backend services and REST APIs  
 - Optimize databases and improve system performance  
-- Work with modern frontend state management (NgRx)  
+- Work with modern frontend state management (NgRx)
 
 ---
 
 ## 🛠️ Tech Stack
-
-### Languages
-- JavaScript  
-- Python  
-- PL/SQL  
-- Marble  
-
-### Frontend
-- Angular  
-- NgRx  
-- HTML  
-- CSS  
-
-### Backend
-- Node.js (Express.js / NestJS)  
-- PHP (Yii, Drupal)  
-
-### Databases
-- Oracle SQL  
-- MySQL  
-- PostgreSQL (Prisma)
-
-### Other
-- REST APIs  
-- JWT & OAuth2  
-- AWS (Cloud Practitioner level)
+**Languages:** JavaScript · Python · PL/SQL  
+**Frontend:** Angular · NgRx · HTML · CSS  
+**Backend:** Node.js (Express / NestJS) · PHP (Yii / Drupal)  
+**Databases:** Oracle SQL · MySQL · PostgreSQL (Prisma)  
+**Others:** REST APIs · JWT / OAuth2 · AWS (Cloud Practitioner level)
 
 ---
 
 ## 🎓 Education & Certifications
-- **BSc in Computer Science** – University of Colombo School of Computing  
+- **BSc in Computer Science** — University of Colombo School of Computing  
 - **AWS Certified Cloud Practitioner**  
-- **Generative AI with Large Language Models** – DeepLearning.AI & AWS  
+- **Generative AI with Large Language Models** — DeepLearning.AI & AWS
 
 ---
 
-## 🌱 Currently Exploring
+## 🔭 Currently Exploring
 - AI & LLM-based systems  
-- Software Architecture & System Design  
+- Software architecture & system design  
 - Cloud-native application development  
 
 ---
 
 ## 📫 Connect With Me
-- 🌍 Location: Colombo, Sri Lanka  
-- 💼 LinkedIn: https://www.linkedin.com/in/nipun-madhusanka  
-- 📧 Email: nipunmadhusanka1250@gmail.com  
+- 📍 Colombo, Sri Lanka  
+- 🔗 LinkedIn: https://www.linkedin.com/in/nipun-madhusanka  
+- ✉️ Email: nipunmadhusanka1250@gmail.com  
 
----
-
-⭐ If you like my work, feel free to explore my repositories and connect!
+⭐ Feel free to explore my repositories or connect with me!
